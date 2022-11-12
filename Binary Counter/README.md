@@ -3,7 +3,9 @@
 ## Project Idea
 The project idea is to count from 0 to 15 as binary using 4 LES lights.
 
-## How to use the code
-For the project to work, you need to set 4 LED lights next to eachother while ordering them from port 2 to 5 (5 beign the most right and 2 the most left).
+## Arduino setup
+For the project to work, you need to plug 4 LED lights next to each other while ordering them from pin 2 (most right) to 5 (most left).
 
 ## Project output
+
+![](https://github.com/AhmedAlsohail/Arduino/blob/main/img/Binary%20Count.gif)
